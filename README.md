@@ -5,11 +5,12 @@
 
 ### 测试及覆盖率demo
 
-- [x] mocha
-- [x] chai
-- [x] istanbul
-- [x] codecov
-- [x] ghooks
+- [x] Mocha
+- [x] Chai
+- [x] Travis
+- [x] Istanbul
+- [x] Codecov
+- [x] Githooks
 
 ### 依赖安装
 
