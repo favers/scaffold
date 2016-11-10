@@ -1,0 +1,33 @@
+{
+  "name": "scaffold",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha-phantomjs": "^4.1.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "istanbul": "^0.4.5",
+    "mocha": "^3.1.2",
+    "mocha-phantomjs": "^4.1.0"
+  },
+  "scripts": {
+    "test": "mocha",
+    "test:cover": "istanbul cover _mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/favers/scaffold.git"
+  },
+  "author": "favers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/favers/scaffold/issues"
+  },
+  "homepage": "https://github.com/favers/scaffold#readme"
+}
